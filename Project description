@@ -1,0 +1,8 @@
+Hello! Thanks for taking a minute to see my project.
+My project is "STARTUP INVESTMENT PREDICTION"
+I have used tools Machine Learning and Data Science tools and Python as my Programming Language.My goal is to train a machine learning model which analyses and predicts the profit of the startups and to get the maximum accuracy possible.
+The dataset i used in this project is from Kaggle.com - https://www.kaggle.com/farhanmd29/50-startups
+In the last prediction result,the first vector is real profits of the test set and the second vector is the predicted proits of the test set.
+The accuracy rate of my model is 93.4%
+
+
